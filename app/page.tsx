@@ -2,6 +2,8 @@
 
 import dynamic from "next/dynamic";
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 export default function Page() {
 
