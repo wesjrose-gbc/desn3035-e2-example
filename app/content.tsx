@@ -96,7 +96,7 @@ export default function Content() {
                     </ResponsiveContainer>
                 </div>
             </div>
-            <div className="col-12">
+            <div className="col-12 d-flex justify-content-center">
                 <ReactPlayer url='https://soundcloud.com/mbbofficial/journey?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing' />
             </div>
         </div>
